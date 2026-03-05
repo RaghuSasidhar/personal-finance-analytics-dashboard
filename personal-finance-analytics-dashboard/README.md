@@ -111,4 +111,5 @@ A **Linear Regression model** predicts the **next month’s expected expense** b
 
 ## 👨‍💻 Author
 
-**Mamillapalli C S Raghu**
+**Mamillapalli C S Raghu Sasidhar**
+
