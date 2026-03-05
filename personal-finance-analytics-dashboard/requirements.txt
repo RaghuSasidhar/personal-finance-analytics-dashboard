@@ -1,0 +1,28 @@
+# Personal Finance Analytics Dashboard
+# Python Dependencies
+# ====================
+# Install with: pip install -r requirements.txt
+
+# Core data manipulation
+pandas==2.2.1
+numpy==1.26.4
+
+# Machine learning / forecasting
+scikit-learn==1.4.1
+
+# Visualization (optional – for exploratory analysis)
+matplotlib==3.8.3
+seaborn==0.13.2
+plotly==5.20.0
+
+# Excel/Power BI export support
+openpyxl==3.1.2
+xlsxwriter==3.1.9
+
+# Jupyter (optional – for interactive notebooks)
+jupyter==1.0.0
+jupyterlab==4.1.2
+
+# Utilities
+python-dateutil==2.9.0
+tqdm==4.66.2

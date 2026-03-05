@@ -1,0 +1,201 @@
+Date,Description,Category,Amount,Type,Payment_Mode,Year,Month,Month_Name,Weekday,Income,Expense
+2023-09-01,Office Canteen,Food & Dining,2870.0,Expense,Net Banking,2023,9,September,Friday,0.0,2870.0
+2023-09-02,Milk & Eggs,Groceries,3648.0,Expense,UPI,2023,9,September,Saturday,0.0,3648.0
+2023-09-02,Gas Station,Transportation,1541.0,Expense,Credit Card,2023,9,September,Saturday,0.0,1541.0
+2023-09-03,Monthly Salary,Salary,75900.0,Income,Debit Card,2023,9,September,Sunday,75900.0,0.0
+2023-09-04,Spotify,Entertainment,376.0,Expense,Cash,2023,9,September,Monday,0.0,376.0
+2023-09-04,Freelance Project,Salary,73400.0,Income,Net Banking,2023,9,September,Monday,73400.0,0.0
+2023-09-05,Zomato Order,Food & Dining,3783.0,Expense,Debit Card,2023,9,September,Tuesday,0.0,3783.0
+2023-09-07,McDonalds,Food & Dining,1671.0,Expense,Net Banking,2023,9,September,Thursday,0.0,1671.0
+2023-09-07,Gaming,Entertainment,2041.0,Expense,Credit Card,2023,9,September,Thursday,0.0,2041.0
+2023-09-07,Bus Ticket,Transportation,283.0,Expense,Debit Card,2023,9,September,Thursday,0.0,283.0
+2023-09-07,Gaming,Entertainment,1632.0,Expense,Debit Card,2023,9,September,Thursday,0.0,1632.0
+2023-09-08,Monthly Rent,Housing,12400.0,Expense,Net Banking,2023,9,September,Friday,0.0,12400.0
+2023-09-09,Spotify,Entertainment,360.0,Expense,Net Banking,2023,9,September,Saturday,0.0,360.0
+2023-09-10,H&M,Shopping,18256.0,Expense,UPI,2023,9,September,Sunday,0.0,18256.0
+2023-09-11,Metro Recharge,Transportation,2090.0,Expense,Debit Card,2023,9,September,Monday,0.0,2090.0
+2023-09-11,Uber Ride,Transportation,341.0,Expense,Credit Card,2023,9,September,Monday,0.0,341.0
+2023-09-12,Part-time Job,Salary,77000.0,Income,Cash,2023,9,September,Tuesday,77000.0,0.0
+2023-09-13,Gas Station,Transportation,2714.0,Expense,Cash,2023,9,September,Wednesday,0.0,2714.0
+2023-09-14,Monthly Salary,Salary,83800.0,Income,Debit Card,2023,9,September,Thursday,83800.0,0.0
+2023-09-14,Local Supermarket,Groceries,2586.0,Expense,UPI,2023,9,September,Thursday,0.0,2586.0
+2023-09-15,Milk & Eggs,Groceries,737.0,Expense,Debit Card,2023,9,September,Friday,0.0,737.0
+2023-09-15,Zomato Order,Food & Dining,1621.0,Expense,Cash,2023,9,September,Friday,0.0,1621.0
+2023-09-16,Pharmacy,Health,5346.0,Expense,Credit Card,2023,9,September,Saturday,0.0,5346.0
+2023-09-16,Gaming,Entertainment,2317.0,Expense,Debit Card,2023,9,September,Saturday,0.0,2317.0
+2023-09-16,H&M,Shopping,17982.0,Expense,Debit Card,2023,9,September,Saturday,0.0,17982.0
+2023-09-17,Amazon Purchase,Shopping,17454.0,Expense,Net Banking,2023,9,September,Sunday,0.0,17454.0
+2023-09-18,Spotify,Entertainment,2317.0,Expense,Debit Card,2023,9,September,Monday,0.0,2317.0
+2023-09-19,H&M,Shopping,12643.0,Expense,Credit Card,2023,9,September,Tuesday,0.0,12643.0
+2023-09-19,Swiggy Order,Food & Dining,2245.0,Expense,Net Banking,2023,9,September,Tuesday,0.0,2245.0
+2023-09-20,Tax Refund,Refund,8780.0,Income,Credit Card,2023,9,September,Wednesday,8780.0,0.0
+2023-09-20,Gaming,Entertainment,3691.0,Expense,UPI,2023,9,September,Wednesday,0.0,3691.0
+2023-09-21,Bus Ticket,Transportation,2520.0,Expense,UPI,2023,9,September,Thursday,0.0,2520.0
+2023-09-22,Starbucks,Food & Dining,1620.0,Expense,Cash,2023,9,September,Friday,0.0,1620.0
+2023-09-22,Starbucks,Food & Dining,3058.0,Expense,Cash,2023,9,September,Friday,0.0,3058.0
+2023-09-22,Water Bill,Housing,14100.0,Expense,UPI,2023,9,September,Friday,0.0,14100.0
+2023-09-23,Zara,Shopping,16321.0,Expense,UPI,2023,9,September,Saturday,0.0,16321.0
+2023-09-24,Spotify,Entertainment,2524.0,Expense,Net Banking,2023,9,September,Sunday,0.0,2524.0
+2023-09-25,Spotify,Entertainment,1188.0,Expense,Credit Card,2023,9,September,Monday,0.0,1188.0
+2023-09-26,Amazon Refund,Refund,8590.0,Income,Debit Card,2023,9,September,Tuesday,8590.0,0.0
+2023-09-26,Dinner with Friends,Food & Dining,3581.0,Expense,Net Banking,2023,9,September,Tuesday,0.0,3581.0
+2023-09-28,Monthly Salary,Salary,70100.0,Income,Cash,2023,9,September,Thursday,70100.0,0.0
+2023-09-28,Gaming,Entertainment,2759.0,Expense,Cash,2023,9,September,Thursday,0.0,2759.0
+2023-09-29,Freelance Project,Salary,63000.0,Income,UPI,2023,9,September,Friday,63000.0,0.0
+2023-09-30,Amazon Purchase,Shopping,8409.0,Expense,Net Banking,2023,9,September,Saturday,0.0,8409.0
+2023-09-30,Internship Stipend,Stipend,30450.0,Income,UPI,2023,9,September,Saturday,30450.0,0.0
+2023-10-03,Amazon Purchase,Shopping,17143.0,Expense,UPI,2023,10,October,Tuesday,0.0,17143.0
+2023-10-06,Monthly Rent,Housing,20400.0,Expense,Debit Card,2023,10,October,Friday,0.0,20400.0
+2023-10-07,Electronics Store,Shopping,10812.0,Expense,Debit Card,2023,10,October,Saturday,0.0,10812.0
+2023-10-08,Uber Ride,Transportation,3355.0,Expense,Net Banking,2023,10,October,Sunday,0.0,3355.0
+2023-10-10,Monthly Rent,Housing,14600.0,Expense,Debit Card,2023,10,October,Tuesday,0.0,14600.0
+2023-10-11,Pharmacy,Health,1797.0,Expense,Net Banking,2023,10,October,Wednesday,0.0,1797.0
+2023-10-12,Instamart,Groceries,708.0,Expense,Cash,2023,10,October,Thursday,0.0,708.0
+2023-10-13,McDonalds,Food & Dining,3853.0,Expense,UPI,2023,10,October,Friday,0.0,3853.0
+2023-10-13,Water Bill,Housing,18100.0,Expense,Debit Card,2023,10,October,Friday,0.0,18100.0
+2023-10-13,Office Canteen,Food & Dining,2875.0,Expense,Cash,2023,10,October,Friday,0.0,2875.0
+2023-10-13,Movie Ticket,Entertainment,2236.0,Expense,Cash,2023,10,October,Friday,0.0,2236.0
+2023-10-16,Doctor Consultation,Health,1353.0,Expense,Credit Card,2023,10,October,Monday,0.0,1353.0
+2023-10-16,Milk & Eggs,Groceries,2848.0,Expense,UPI,2023,10,October,Monday,0.0,2848.0
+2023-10-17,Electronics Store,Shopping,16738.0,Expense,Debit Card,2023,10,October,Tuesday,0.0,16738.0
+2023-10-18,Monthly Salary,Salary,67600.0,Income,Cash,2023,10,October,Wednesday,67600.0,0.0
+2023-10-18,Walmart,Groceries,2452.0,Expense,Credit Card,2023,10,October,Wednesday,0.0,2452.0
+2023-10-21,Pharmacy,Health,5963.0,Expense,Cash,2023,10,October,Saturday,0.0,5963.0
+2023-10-21,Dinner with Friends,Food & Dining,2492.0,Expense,Debit Card,2023,10,October,Saturday,0.0,2492.0
+2023-10-23,Milk & Eggs,Groceries,1111.0,Expense,Cash,2023,10,October,Monday,0.0,1111.0
+2023-10-23,Water Bill,Housing,12600.0,Expense,Debit Card,2023,10,October,Monday,0.0,12600.0
+2023-10-24,Internship Stipend,Stipend,46240.0,Income,UPI,2023,10,October,Tuesday,46240.0,0.0
+2023-10-25,Internet Bill,Housing,13100.0,Expense,Net Banking,2023,10,October,Wednesday,0.0,13100.0
+2023-10-26,Instamart,Groceries,1349.0,Expense,Credit Card,2023,10,October,Thursday,0.0,1349.0
+2023-10-26,Walmart,Groceries,872.0,Expense,UPI,2023,10,October,Thursday,0.0,872.0
+2023-10-27,Zara,Shopping,8402.0,Expense,Debit Card,2023,10,October,Friday,0.0,8402.0
+2023-10-27,Water Bill,Housing,22200.0,Expense,UPI,2023,10,October,Friday,0.0,22200.0
+2023-10-28,Office Canteen,Food & Dining,1164.0,Expense,Cash,2023,10,October,Saturday,0.0,1164.0
+2023-10-28,Monthly Salary,Salary,55700.0,Income,Cash,2023,10,October,Saturday,55700.0,0.0
+2023-10-29,Walmart,Groceries,3373.0,Expense,Net Banking,2023,10,October,Sunday,0.0,3373.0
+2023-10-30,Gaming,Entertainment,2336.0,Expense,Debit Card,2023,10,October,Monday,0.0,2336.0
+2023-10-30,Gaming,Entertainment,673.0,Expense,Debit Card,2023,10,October,Monday,0.0,673.0
+2023-10-31,Internet Bill,Housing,15200.0,Expense,Credit Card,2023,10,October,Tuesday,0.0,15200.0
+2023-11-02,Amazon Purchase,Shopping,3165.0,Expense,Debit Card,2023,11,November,Thursday,0.0,3165.0
+2023-11-02,Local Supermarket,Groceries,3742.0,Expense,UPI,2023,11,November,Thursday,0.0,3742.0
+2023-11-03,Bus Ticket,Transportation,3273.0,Expense,Debit Card,2023,11,November,Friday,0.0,3273.0
+2023-11-03,Tax Refund,Refund,5370.0,Income,Credit Card,2023,11,November,Friday,5370.0,0.0
+2023-11-04,Uber Ride,Transportation,441.0,Expense,Debit Card,2023,11,November,Saturday,0.0,441.0
+2023-11-04,H&M,Shopping,13620.0,Expense,UPI,2023,11,November,Saturday,0.0,13620.0
+2023-11-05,Monthly Salary,Salary,66000.0,Income,Net Banking,2023,11,November,Sunday,66000.0,0.0
+2023-11-06,Starbucks,Food & Dining,1482.0,Expense,Cash,2023,11,November,Monday,0.0,1482.0
+2023-11-08,Electricity Bill,Housing,16400.0,Expense,Cash,2023,11,November,Wednesday,0.0,16400.0
+2023-11-08,Water Bill,Housing,14400.0,Expense,Debit Card,2023,11,November,Wednesday,0.0,14400.0
+2023-11-08,Pharmacy,Health,4413.0,Expense,Cash,2023,11,November,Wednesday,0.0,4413.0
+2023-11-09,Monthly Salary,Salary,67300.0,Income,Debit Card,2023,11,November,Thursday,67300.0,0.0
+2023-11-12,Doctor Consultation,Health,4556.0,Expense,Net Banking,2023,11,November,Sunday,0.0,4556.0
+2023-11-14,Uber Ride,Transportation,457.0,Expense,Net Banking,2023,11,November,Tuesday,0.0,457.0
+2023-11-15,Internship Stipend,Stipend,38760.0,Income,Debit Card,2023,11,November,Wednesday,38760.0,0.0
+2023-11-15,Doctor Consultation,Health,4116.0,Expense,Cash,2023,11,November,Wednesday,0.0,4116.0
+2023-11-15,Milk & Eggs,Groceries,964.0,Expense,Net Banking,2023,11,November,Wednesday,0.0,964.0
+2023-11-20,Milk & Eggs,Groceries,2606.0,Expense,Credit Card,2023,11,November,Monday,0.0,2606.0
+2023-11-21,Electricity Bill,Housing,21100.0,Expense,Credit Card,2023,11,November,Tuesday,0.0,21100.0
+2023-11-22,Spotify,Entertainment,3862.0,Expense,UPI,2023,11,November,Wednesday,0.0,3862.0
+2023-11-22,Monthly Rent,Housing,21500.0,Expense,Debit Card,2023,11,November,Wednesday,0.0,21500.0
+2023-11-22,Uber Ride,Transportation,3550.0,Expense,Credit Card,2023,11,November,Wednesday,0.0,3550.0
+2023-11-22,Gas Station,Transportation,3896.0,Expense,Debit Card,2023,11,November,Wednesday,0.0,3896.0
+2023-11-22,Milk & Eggs,Groceries,322.0,Expense,Debit Card,2023,11,November,Wednesday,0.0,322.0
+2023-11-23,Swiggy Order,Food & Dining,3104.0,Expense,Cash,2023,11,November,Thursday,0.0,3104.0
+2023-11-24,Internet Bill,Housing,17200.0,Expense,Net Banking,2023,11,November,Friday,0.0,17200.0
+2023-11-26,Gas Station,Transportation,2035.0,Expense,Debit Card,2023,11,November,Sunday,0.0,2035.0
+2023-11-27,Amazon Purchase,Shopping,12692.0,Expense,Net Banking,2023,11,November,Monday,0.0,12692.0
+2023-11-27,Pharmacy,Health,5820.0,Expense,UPI,2023,11,November,Monday,0.0,5820.0
+2023-11-28,Zara,Shopping,19460.0,Expense,Credit Card,2023,11,November,Tuesday,0.0,19460.0
+2023-11-28,Walmart,Groceries,3578.0,Expense,UPI,2023,11,November,Tuesday,0.0,3578.0
+2023-11-30,Internship Stipend,Stipend,28170.0,Income,UPI,2023,11,November,Thursday,28170.0,0.0
+2023-12-01,Zara,Shopping,2698.0,Expense,UPI,2023,12,December,Friday,0.0,2698.0
+2023-12-02,Internet Bill,Housing,13700.0,Expense,Cash,2023,12,December,Saturday,0.0,13700.0
+2023-12-03,Gas Station,Transportation,3389.0,Expense,Debit Card,2023,12,December,Sunday,0.0,3389.0
+2023-12-03,Amazon Purchase,Shopping,13366.0,Expense,Credit Card,2023,12,December,Sunday,0.0,13366.0
+2023-12-05,Doctor Consultation,Health,1158.0,Expense,Credit Card,2023,12,December,Tuesday,0.0,1158.0
+2023-12-06,Netflix Subscription,Entertainment,2497.0,Expense,UPI,2023,12,December,Wednesday,0.0,2497.0
+2023-12-06,Tax Refund,Refund,9630.0,Income,Cash,2023,12,December,Wednesday,9630.0,0.0
+2023-12-07,Gaming,Entertainment,1518.0,Expense,UPI,2023,12,December,Thursday,0.0,1518.0
+2023-12-07,Internet Bill,Housing,12900.0,Expense,Net Banking,2023,12,December,Thursday,0.0,12900.0
+2023-12-09,Internship Stipend,Stipend,36250.0,Income,UPI,2023,12,December,Saturday,36250.0,0.0
+2023-12-10,Milk & Eggs,Groceries,3530.0,Expense,Credit Card,2023,12,December,Sunday,0.0,3530.0
+2023-12-12,Doctor Consultation,Health,2649.0,Expense,Net Banking,2023,12,December,Tuesday,0.0,2649.0
+2023-12-14,Tax Refund,Refund,770.0,Income,Net Banking,2023,12,December,Thursday,770.0,0.0
+2023-12-14,Swiggy Order,Food & Dining,2751.0,Expense,Debit Card,2023,12,December,Thursday,0.0,2751.0
+2023-12-15,Uber Ride,Transportation,3678.0,Expense,Credit Card,2023,12,December,Friday,0.0,3678.0
+2023-12-18,Electricity Bill,Housing,12300.0,Expense,Credit Card,2023,12,December,Monday,0.0,12300.0
+2023-12-19,Water Bill,Housing,17500.0,Expense,Credit Card,2023,12,December,Tuesday,0.0,17500.0
+2023-12-20,Monthly Rent,Housing,21900.0,Expense,Net Banking,2023,12,December,Wednesday,0.0,21900.0
+2023-12-20,Walmart,Groceries,2620.0,Expense,Debit Card,2023,12,December,Wednesday,0.0,2620.0
+2023-12-20,Part-time Job,Salary,91300.0,Income,Net Banking,2023,12,December,Wednesday,91300.0,0.0
+2023-12-22,Movie Ticket,Entertainment,1576.0,Expense,Debit Card,2023,12,December,Friday,0.0,1576.0
+2023-12-23,Netflix Subscription,Entertainment,1935.0,Expense,Credit Card,2023,12,December,Saturday,0.0,1935.0
+2023-12-25,Bus Ticket,Transportation,528.0,Expense,Credit Card,2023,12,December,Monday,0.0,528.0
+2023-12-25,Water Bill,Housing,15400.0,Expense,Cash,2023,12,December,Monday,0.0,15400.0
+2023-12-28,Netflix Subscription,Entertainment,384.0,Expense,UPI,2023,12,December,Thursday,0.0,384.0
+2023-12-29,Netflix Subscription,Entertainment,2812.0,Expense,Credit Card,2023,12,December,Friday,0.0,2812.0
+2023-12-29,H&M,Shopping,6003.0,Expense,Cash,2023,12,December,Friday,0.0,6003.0
+2023-12-29,Water Bill,Housing,20700.0,Expense,Credit Card,2023,12,December,Friday,0.0,20700.0
+2023-12-31,Dinner with Friends,Food & Dining,1632.0,Expense,Debit Card,2023,12,December,Sunday,0.0,1632.0
+2024-01-01,Spotify,Entertainment,2431.0,Expense,Debit Card,2024,1,January,Monday,0.0,2431.0
+2024-01-02,Part-time Job,Salary,84500.0,Income,Net Banking,2024,1,January,Tuesday,84500.0,0.0
+2024-01-04,Amazon Refund,Refund,6790.0,Income,Cash,2024,1,January,Thursday,6790.0,0.0
+2024-01-05,Walmart,Groceries,1982.0,Expense,Debit Card,2024,1,January,Friday,0.0,1982.0
+2024-01-05,Monthly Rent,Housing,18200.0,Expense,Net Banking,2024,1,January,Friday,0.0,18200.0
+2024-01-06,Freelance Project,Salary,81000.0,Income,Credit Card,2024,1,January,Saturday,81000.0,0.0
+2024-01-06,Monthly Rent,Housing,16500.0,Expense,UPI,2024,1,January,Saturday,0.0,16500.0
+2024-01-07,Local Supermarket,Groceries,646.0,Expense,Credit Card,2024,1,January,Sunday,0.0,646.0
+2024-01-07,Electricity Bill,Housing,15000.0,Expense,Cash,2024,1,January,Sunday,0.0,15000.0
+2024-01-09,Pharmacy,Health,5255.0,Expense,Debit Card,2024,1,January,Tuesday,0.0,5255.0
+2024-01-13,Walmart,Groceries,3064.0,Expense,UPI,2024,1,January,Saturday,0.0,3064.0
+2024-01-14,Spotify,Entertainment,627.0,Expense,Debit Card,2024,1,January,Sunday,0.0,627.0
+2024-01-14,Local Supermarket,Groceries,241.0,Expense,Debit Card,2024,1,January,Sunday,0.0,241.0
+2024-01-15,Electricity Bill,Housing,14700.0,Expense,UPI,2024,1,January,Monday,0.0,14700.0
+2024-01-17,Starbucks,Food & Dining,3723.0,Expense,Cash,2024,1,January,Wednesday,0.0,3723.0
+2024-01-17,Amazon Purchase,Shopping,17001.0,Expense,UPI,2024,1,January,Wednesday,0.0,17001.0
+2024-01-18,Internship Stipend,Stipend,50060.0,Income,Credit Card,2024,1,January,Thursday,50060.0,0.0
+2024-01-18,Milk & Eggs,Groceries,489.0,Expense,Credit Card,2024,1,January,Thursday,0.0,489.0
+2024-01-19,Local Supermarket,Groceries,868.0,Expense,Credit Card,2024,1,January,Friday,0.0,868.0
+2024-01-20,Metro Recharge,Transportation,3147.0,Expense,Credit Card,2024,1,January,Saturday,0.0,3147.0
+2024-01-21,Milk & Eggs,Groceries,2406.0,Expense,Net Banking,2024,1,January,Sunday,0.0,2406.0
+2024-01-22,McDonalds,Food & Dining,3627.0,Expense,Debit Card,2024,1,January,Monday,0.0,3627.0
+2024-01-23,Movie Ticket,Entertainment,3172.0,Expense,UPI,2024,1,January,Tuesday,0.0,3172.0
+2024-01-23,Spotify,Entertainment,3410.0,Expense,UPI,2024,1,January,Tuesday,0.0,3410.0
+2024-01-24,Monthly Rent,Housing,22200.0,Expense,Net Banking,2024,1,January,Wednesday,0.0,22200.0
+2024-01-26,Pharmacy,Health,2796.0,Expense,Cash,2024,1,January,Friday,0.0,2796.0
+2024-01-26,Dinner with Friends,Food & Dining,3024.0,Expense,UPI,2024,1,January,Friday,0.0,3024.0
+2024-01-27,Monthly Rent,Housing,14400.0,Expense,Debit Card,2024,1,January,Saturday,0.0,14400.0
+2024-01-27,Local Supermarket,Groceries,3105.0,Expense,UPI,2024,1,January,Saturday,0.0,3105.0
+2024-01-27,Local Supermarket,Groceries,2430.0,Expense,Debit Card,2024,1,January,Saturday,0.0,2430.0
+2024-01-29,Doctor Consultation,Health,4348.0,Expense,UPI,2024,1,January,Monday,0.0,4348.0
+2024-01-30,Monthly Rent,Housing,15400.0,Expense,Debit Card,2024,1,January,Tuesday,0.0,15400.0
+2024-01-30,Movie Ticket,Entertainment,381.0,Expense,Cash,2024,1,January,Tuesday,0.0,381.0
+2024-01-31,Electronics Store,Shopping,10590.0,Expense,Credit Card,2024,1,January,Wednesday,0.0,10590.0
+2024-02-02,Milk & Eggs,Groceries,3323.0,Expense,Credit Card,2024,2,February,Friday,0.0,3323.0
+2024-02-03,Internet Bill,Housing,16900.0,Expense,Credit Card,2024,2,February,Saturday,0.0,16900.0
+2024-02-03,Netflix Subscription,Entertainment,2601.0,Expense,Net Banking,2024,2,February,Saturday,0.0,2601.0
+2024-02-03,McDonalds,Food & Dining,3810.0,Expense,Credit Card,2024,2,February,Saturday,0.0,3810.0
+2024-02-04,Electricity Bill,Housing,18100.0,Expense,Debit Card,2024,2,February,Sunday,0.0,18100.0
+2024-02-05,Spotify,Entertainment,3282.0,Expense,Net Banking,2024,2,February,Monday,0.0,3282.0
+2024-02-08,H&M,Shopping,18842.0,Expense,Cash,2024,2,February,Thursday,0.0,18842.0
+2024-02-09,Uber Ride,Transportation,749.0,Expense,Net Banking,2024,2,February,Friday,0.0,749.0
+2024-02-09,Pharmacy,Health,3739.0,Expense,Cash,2024,2,February,Friday,0.0,3739.0
+2024-02-11,Gym Membership,Health,4848.0,Expense,Debit Card,2024,2,February,Sunday,0.0,4848.0
+2024-02-12,Internship Stipend,Stipend,74610.0,Income,Cash,2024,2,February,Monday,74610.0,0.0
+2024-02-12,H&M,Shopping,8436.0,Expense,Debit Card,2024,2,February,Monday,0.0,8436.0
+2024-02-15,Internet Bill,Housing,21000.0,Expense,Debit Card,2024,2,February,Thursday,0.0,21000.0
+2024-02-15,Spotify,Entertainment,1886.0,Expense,Cash,2024,2,February,Thursday,0.0,1886.0
+2024-02-16,Office Canteen,Food & Dining,3839.0,Expense,Credit Card,2024,2,February,Friday,0.0,3839.0
+2024-02-17,Netflix Subscription,Entertainment,3776.0,Expense,Cash,2024,2,February,Saturday,0.0,3776.0
+2024-02-19,Spotify,Entertainment,313.0,Expense,Debit Card,2024,2,February,Monday,0.0,313.0
+2024-02-19,Instamart,Groceries,1202.0,Expense,Credit Card,2024,2,February,Monday,0.0,1202.0
+2024-02-20,Milk & Eggs,Groceries,1237.0,Expense,Debit Card,2024,2,February,Tuesday,0.0,1237.0
+2024-02-23,Tax Refund,Refund,1080.0,Income,Cash,2024,2,February,Friday,1080.0,0.0
+2024-02-24,Walmart,Groceries,2444.0,Expense,Net Banking,2024,2,February,Saturday,0.0,2444.0
+2024-02-25,Starbucks,Food & Dining,1194.0,Expense,Debit Card,2024,2,February,Sunday,0.0,1194.0
+2024-02-26,Gym Membership,Health,1548.0,Expense,Credit Card,2024,2,February,Monday,0.0,1548.0
+2024-02-27,Netflix Subscription,Entertainment,3621.0,Expense,Cash,2024,2,February,Tuesday,0.0,3621.0
+2024-02-27,Freelance Project,Salary,98100.0,Income,UPI,2024,2,February,Tuesday,98100.0,0.0
+2024-02-28,H&M,Shopping,8375.0,Expense,Cash,2024,2,February,Wednesday,0.0,8375.0
+2024-02-28,McDonalds,Food & Dining,806.0,Expense,UPI,2024,2,February,Wednesday,0.0,806.0
+2024-02-28,Monthly Salary,Salary,95300.0,Income,Cash,2024,2,February,Wednesday,95300.0,0.0
