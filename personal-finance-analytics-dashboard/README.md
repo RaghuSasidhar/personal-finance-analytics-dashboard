@@ -89,6 +89,18 @@ A **Linear Regression model** predicts the **next month’s expected expense** b
 
 ---
 
+## Key Insights
+
+• 🏠Housing is the largest spending category (~48% of expenses)
+
+• 💵Monthly expenses fluctuate but remain close to income levels
+
+• 💹Savings rate is approximately 27%
+
+• 🪙Predicted next month's expense is around 151K
+
+---
+
 ## 🛠 Tech Stack
 
 * 🐍 Python
@@ -112,4 +124,5 @@ A **Linear Regression model** predicts the **next month’s expected expense** b
 ## 👨‍💻 Author
 
 **Mamillapalli C S Raghu Sasidhar**
+
 
